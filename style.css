@@ -171,8 +171,8 @@ section {
 
 .section__pic-container{
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 450px;
+    width: 450px;
     margin: auto 0;
 }
 
@@ -283,7 +283,7 @@ section {
 
 
 .about-pic {
-    border-radius: 2rem;
+    border-radius: 2.5rem;
 }
 
 .arrow {
@@ -424,7 +424,9 @@ footer p {
     text-align: center;
 }
 
-
+.first-picture {
+    border-radius: 50%;
+}
 
 
 
